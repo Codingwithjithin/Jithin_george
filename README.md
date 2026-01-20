@@ -1,20 +1,24 @@
 # 👋 Hi, I'm Jithin George
 
-🧪 Curious, Still Finding My Niche
+🧪 Code,Repeat,Live.
 
 ---
 
-## 🧠 About Me
+👋 About Me
 
-Still exploring the vast world of programming. I’ve worked across **mobile app development, AI projects, web tech, and game development** — and I enjoy diving into new languages and domains to expand my skillset.
+Exploring the ever-evolving world of technology with a strong focus on AI & Machine Learning. I enjoy building intelligent systems while continuously strengthening my foundation in software development and problem-solving.
 
-- 💻 I've built apps using **Flutter**, **React**, and native **Android**
-- 🤖 I've worked on **AI/ML projects** using Python
-- 🎮 Worked with 10+ Game dev teams on projects for itch.io, Roblox and Gamejams
-- 🧩 Still experimenting with new ideas to find what excites me the most
+🤖 Working as an AI/ML Engineer, building and experimenting with data-driven models
 
-I love building, learning, and occasionally getting lost in a late-night debug spiral 😄
+🐍 Proficient in Python, with hands-on experience in ML workflows and backend logic
 
+🧠 Actively practicing Data Structures & Algorithms to sharpen analytical thinking
+
+⚔️ Passionate about competitive programming and logical challenges
+
+💡 Curious about scalable software systems and clean, efficient code
+
+Driven by curiosity, consistency, and the thrill of cracking tough problems — especially when a solution finally clicks after hours of debugging 😄
 ---
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
