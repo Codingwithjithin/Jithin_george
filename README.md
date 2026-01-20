@@ -4,7 +4,7 @@ Code. Learn. Build. Repeat 🔁
 
 ---
 
-👋 About Me
+##👋 About Me
 
 Exploring the ever-evolving world of technology with a strong focus on AI & Machine Learning. I enjoy building intelligent systems while continuously strengthening my foundation in software development and problem-solving.
 
@@ -31,16 +31,16 @@ Driven by curiosity, consistency, and the thrill of cracking tough problems — 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-## 📊 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodingWithJithin/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jithin_george_c1)
-
----
 
 ![snake](https://raw.githubusercontent.com/Codingwithjithin/Jithin_george/output/github-contribution-grid-snake.svg)
 
 
+---
+## 📊 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/CodingWithJithin/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/jithin_george_c1)
 
 ---
 
