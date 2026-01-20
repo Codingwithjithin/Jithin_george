@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jithin George
 
-🧪 Code,Repeat,Live.
+Code. Learn. Build. Repeat 🔁
 
 ---
 
