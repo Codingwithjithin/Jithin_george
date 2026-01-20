@@ -9,9 +9,13 @@
 Exploring the ever-evolving world of technology with a strong focus on AI & Machine Learning. I enjoy building intelligent systems while continuously strengthening my foundation in software development and problem-solving.
 
 🤖 Working as an AI/ML Engineer, building and experimenting with data-driven models. 
+
 🐍 Proficient in Python, with hands-on experience in ML workflows and backend logic.
+
 🧠 Actively practicing Data Structures & Algorithms to sharpen analytical thinking.
-⚔️ Passionate about competitive programming and logical challenges. 
+
+⚔️ Passionate about competitive programming and logical challenges.
+
 💡 Curious about scalable software systems and clean, efficient code. 
 
 Driven by curiosity, consistency, and the thrill of cracking tough problems — especially when a solution finally clicks after hours of debugging 😄
