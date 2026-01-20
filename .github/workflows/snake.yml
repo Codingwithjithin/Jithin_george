@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # ⬅️ VERY IMPORTANT! Allows pushing to `output` branch
+      contents: write  # Allows pushing to `output` branch
 
     steps:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: jonathan-thoms
+          github_user_name: Codingwithjithin
           outputs: |
             dist/github-contribution-grid-snake.svg
 
