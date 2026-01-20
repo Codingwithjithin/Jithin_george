@@ -4,7 +4,7 @@ Code. Learn. Build. Repeat 🔁
 
 ---
 
-##👋 About Me
+# 👋 About Me
 
 Exploring the ever-evolving world of technology with a strong focus on AI & Machine Learning. I enjoy building intelligent systems while continuously strengthening my foundation in software development and problem-solving.
 
