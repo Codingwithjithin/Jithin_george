@@ -29,7 +29,7 @@ Driven by curiosity, consistency, and the thrill of cracking tough problems — 
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/Codingwithjithin/jonathan-thoms/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Codingwithjithin/Jithin_george/output/github-contribution-grid-snake.svg)
 
 
 
